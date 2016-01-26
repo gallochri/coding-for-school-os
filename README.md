@@ -9,7 +9,7 @@ Installazione
 
 1. Scaricare CFS-OS
 ---
-Cliccate qui: to_be_complete
+Cliccate qui: https://gallochri.com/owncloud/index.php/s/xVMcARQX5bnoups
 
 2. Scompattare il file che avete scaricato
 ---
